@@ -36,7 +36,7 @@ def get_breed_info(breed_name):
     # 1st api to get breed info
     info_url = f"https://api.thedogapi.com/v1/breeds/search?q={breed_name}"
     headers = {
-        "x_api_key": API_KEY_1
+        "x_api-key": API_KEY_1
     }
     info_response = requests.get(info_url,headers=headers).json()
 
