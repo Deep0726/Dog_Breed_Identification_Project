@@ -8,7 +8,7 @@ A deep learning based web application that identifies dog breeds from uploaded i
 
 The landing page of the application with a clean and user-friendly interface.
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ---
 
@@ -16,7 +16,7 @@ The landing page of the application with a clean and user-friendly interface.
 
 Users can upload dog images directly through the web interface for prediction.
 
-![Upload Image](screenshots/upload.png)
+![Upload Image](screenshots/Upload.png)
 
 ---
 
@@ -24,7 +24,7 @@ Users can upload dog images directly through the web interface for prediction.
 
 The uploaded image is processed through the trained EfficientNet deep learning model.
 
-![Prediction Process](screenshots/process.png)
+![Prediction Process](screenshots/Process.png)
 
 ---
 
@@ -32,7 +32,15 @@ The uploaded image is processed through the trained EfficientNet deep learning m
 
 The application predicts the dog breed and displays the final result with confidence.
 
-![Prediction Result](screenshots/prediction.png)
+![Prediction Result](screenshots/Prediction.png)
+
+---
+
+# 👨‍💻 5. About Section
+
+The website also includes an About section that provides information about the project and the developer behind it.
+
+![About Section](screenshots/About.png)
 
 ---
 
